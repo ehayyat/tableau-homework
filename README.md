@@ -7,5 +7,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 ## Results
 
 <img width="760" alt="image" src="https://user-images.githubusercontent.com/95598645/172769289-8f83affb-0909-4ca2-bd76-36dc9183fc50.png">
-![image](https://user-images.githubusercontent.com/95598645/172769342-80b33fea-7024-4c79-b1fc-b63a2cdd9bea.png)
-![image](https://user-images.githubusercontent.com/95598645/172769370-ec0f07be-6f99-4da8-a41a-7420f01602b8.png)
+
+
+<[image](https://user-images.githubusercontent.com/95598645/172769456-86834c41-c199-4725-8d9e-25d50e0aa156.png)
