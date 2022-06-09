@@ -7,6 +7,5 @@ However, while the data has been regularly updated, the team has yet to implemen
 ## Results
 
 <img width="760" alt="image" src="https://user-images.githubusercontent.com/95598645/172769289-8f83affb-0909-4ca2-bd76-36dc9183fc50.png">
+- Initial analysis focused on looking at the least popular start and end stations. This was intended to find a correlation between the two. If a station showed up as unpopular for both start/end, that would make a case for removing the station. Fortunately, no match was found, so seems like all the current stations play an important enough role to stay around!
 
-
-<[image](https://user-images.githubusercontent.com/95598645/172769456-86834c41-c199-4725-8d9e-25d50e0aa156.png)
